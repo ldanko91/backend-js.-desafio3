@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Vanitory Maral 60",
+    "price": 21000,
+    "thumbnail": "./img/maral60.jpg",
+    "id": 2
+  },
+  {
+    "title": "Vanitory standard 50",
+    "price": 17000,
+    "thumbnail": "./img/std50.jpg",
+    "id": 3
+  }
+  {
+    "title": "Tanque 500",
+    "price": 21000,
+    "thumbnail": "./img/maral60.jpg",
+    "id": 1
+  },
+]
